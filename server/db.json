@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "email": "user1@gmail.com",
+      "password": "user1",
+      "role": "Admin",
+      "phoneNumber": "12345",
+      "address": "jl. jalan1"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "email": "user2@gmail.com",
+      "password": "user2",
+      "role": "Admin",
+      "phoneNumber": "12345",
+      "address": "jl. jalan2"
+    }
+  ],
+  "products": [
+    {
+      "name": "Oversized Fit Hoodie",
+      "description": "DISNEY100 X H&M Disney100 x H&M. In celebration of Disney's 100th anniversary, artist and former professional snowboarder Trevor Andrew has created this streetwear-inspired collection featuring new takes on some of the studio's most beloved characters. This oversized hoodie is made from sweatshirt fabric with a soft brushed inside and motifs on the front and back. Double-layered, wrapover hood, low dropped shoulders, long sleeves and a kangaroo pocket. Ribbing at the cuffs and hem.",
+      "price": "599000",
+      "categoryId": "1",
+      "mainImg": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/zoom/27668f29a11696fb928275cb5181b691cace0fba_xxl-1.jpg",
+      "id": 1
+    },
+    {
+      "name": "2-pack Leggings",
+      "description": "Leggings in soft organic cotton jersey with an elasticated waist.",
+      "price": "10000",
+      "categoryId": "2",
+      "mainImg": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/6272e6a6b930b9aabeb33eb7be59e92ab48167a3_xxl-1.jpg",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "Men",
+      "id": 1
+    },
+    {
+      "name": "Kids",
+      "id": 2
+    }
+  ],
+  "images": []
+}
